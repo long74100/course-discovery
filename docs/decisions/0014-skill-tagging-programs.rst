@@ -38,3 +38,4 @@ Consequences
 ------------
 
 * The program skill information would need to be indexed in Algolia.
+* For the cases where the associated skill(s) for a program are not correct or do not meet the quality, there should be a mechanism to remove or blacklist the unwanted skills for a Program.
